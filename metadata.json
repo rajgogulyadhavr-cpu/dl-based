@@ -1,0 +1,8 @@
+{
+  "name": "FootGuard AI",
+  "description": "Preliminary visual AI screening and awareness platform for diabetic foot ulcers and foot health.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
